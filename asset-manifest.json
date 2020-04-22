@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Wallpapers/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Wallpapers/static/js/main.cb1897e9.chunk.js",
-    "main.js.map": "/Wallpapers/static/js/main.cb1897e9.chunk.js.map",
+    "main.js": "/Wallpapers/static/js/main.bbff9343.chunk.js",
+    "main.js.map": "/Wallpapers/static/js/main.bbff9343.chunk.js.map",
     "runtime-main.js": "/Wallpapers/static/js/runtime-main.715d2165.js",
     "runtime-main.js.map": "/Wallpapers/static/js/runtime-main.715d2165.js.map",
-    "static/js/2.bea298db.chunk.js": "/Wallpapers/static/js/2.bea298db.chunk.js",
-    "static/js/2.bea298db.chunk.js.map": "/Wallpapers/static/js/2.bea298db.chunk.js.map",
+    "static/js/2.3ba40f47.chunk.js": "/Wallpapers/static/js/2.3ba40f47.chunk.js",
+    "static/js/2.3ba40f47.chunk.js.map": "/Wallpapers/static/js/2.3ba40f47.chunk.js.map",
     "index.html": "/Wallpapers/index.html",
-    "precache-manifest.48a4be72ac9f6ac21dd7eb982a1e4169.js": "/Wallpapers/precache-manifest.48a4be72ac9f6ac21dd7eb982a1e4169.js",
+    "precache-manifest.114e32e8f849e1713e8701630b3356f7.js": "/Wallpapers/precache-manifest.114e32e8f849e1713e8701630b3356f7.js",
     "service-worker.js": "/Wallpapers/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/Wallpapers/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.bea298db.chunk.js.LICENSE.txt": "/Wallpapers/static/js/2.bea298db.chunk.js.LICENSE.txt"
+    "static/js/2.3ba40f47.chunk.js.LICENSE.txt": "/Wallpapers/static/js/2.3ba40f47.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.715d2165.js",
-    "static/js/2.bea298db.chunk.js",
+    "static/js/2.3ba40f47.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.cb1897e9.chunk.js"
+    "static/js/main.bbff9343.chunk.js"
   ]
 }
