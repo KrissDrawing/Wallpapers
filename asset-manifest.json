@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Wallpapers/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Wallpapers/static/js/main.bbff9343.chunk.js",
-    "main.js.map": "/Wallpapers/static/js/main.bbff9343.chunk.js.map",
+    "main.js": "/Wallpapers/static/js/main.1f354de1.chunk.js",
+    "main.js.map": "/Wallpapers/static/js/main.1f354de1.chunk.js.map",
     "runtime-main.js": "/Wallpapers/static/js/runtime-main.715d2165.js",
     "runtime-main.js.map": "/Wallpapers/static/js/runtime-main.715d2165.js.map",
     "static/js/2.3ba40f47.chunk.js": "/Wallpapers/static/js/2.3ba40f47.chunk.js",
     "static/js/2.3ba40f47.chunk.js.map": "/Wallpapers/static/js/2.3ba40f47.chunk.js.map",
     "index.html": "/Wallpapers/index.html",
-    "precache-manifest.114e32e8f849e1713e8701630b3356f7.js": "/Wallpapers/precache-manifest.114e32e8f849e1713e8701630b3356f7.js",
+    "precache-manifest.7e719b54382857fee3874f3cca42de7b.js": "/Wallpapers/precache-manifest.7e719b54382857fee3874f3cca42de7b.js",
     "service-worker.js": "/Wallpapers/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/Wallpapers/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.3ba40f47.chunk.js.LICENSE.txt": "/Wallpapers/static/js/2.3ba40f47.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.715d2165.js",
     "static/js/2.3ba40f47.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.bbff9343.chunk.js"
+    "static/js/main.1f354de1.chunk.js"
   ]
 }
